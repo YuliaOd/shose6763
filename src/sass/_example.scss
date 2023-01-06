@@ -34,6 +34,11 @@ ul {
   margin: 0px;
 }
 
+img {
+  margin: 0;
+  padding: 0;
+}
+
 .page-heder {
   display: flex;
   margin-left: auto;
@@ -126,5 +131,23 @@ ul {
 }
 .container_footer {
   background: #004899;
-  padding: 15px;
+  color: white;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  font-size: 16px;
+}
+
+.trade {
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 26px;
+  color: white;
+  background: #004899;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
 }
