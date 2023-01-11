@@ -12,3 +12,9 @@
       refs.modal.classList.toggle("is-hidden");
     }
   })();
+
+  $(function() {
+    $('#nav-icon6').click(function(){
+        $(this).toggleClass('open');
+    });
+});
