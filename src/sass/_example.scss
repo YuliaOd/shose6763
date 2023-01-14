@@ -28,6 +28,25 @@
 // }
 
 
+.menu_hero {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 0px;
+}
+
+.li_hero {
+  font-size: 18px;
+  color:#004899;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+
+}
+
+
+
 .hero_marker {
   list-style: none;
   padding: 0px;
